@@ -55,8 +55,13 @@
         <module>repairnator-pipeline</module>
         <module>repairnator-core</module>
         <module>repairnator-realtime</module>
+<<<<<<< HEAD
         <module>maven-repair</module>
         <module>repairnator-jenkins-plugin</module>
+=======
+        <module>repairnator-jenkins-plugin</module>
+        <module>maven-repair</module>
+>>>>>>> Fix: fix failing dependency import
     </modules>
 
     <repositories>
